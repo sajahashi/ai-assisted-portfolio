@@ -107,3 +107,14 @@ The user reviewed the plan before any implementation. The user requested that th
 ---
 
 End of update to `ai-log.md`.
+
+## Browser-Review Correction (2026-09-17)
+
+During a browser-based review the user identified remaining template placeholder content in the About page's "What i'm doing" service cards and the Testimonials section. Per the user's instruction I made focused corrections using only information from `content-notes.md`:
+
+- Replaced the four service cards with concise, truthful areas derived from `content-notes.md`: "Artificial Intelligence & Machine Learning", "Automation & Process Improvement", "Software & Systems Engineering", and "Operations & Technology". Each card contains brief descriptive text based only on coursework, interests, and administrative/operational experience from `content-notes.md`.
+- Removed the entire Testimonials section and its modal because no real testimonials were provided and template testimonials must not be published.
+
+These changes were limited to the About section and the Testimonials block; no other files were modified. All edits preserved existing layout classes, `data-*` attributes, stylesheet and script links, and overall template structure to keep the original design and behavior intact.
+
+Human review: The user requested the correction after reviewing the site in a browser and confirmed the changes should be made. The user retains responsibility for final verification and publication.
